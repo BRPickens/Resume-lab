@@ -1,0 +1,95 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+* {
+    font-family: 'Times New Roman';
+}
+
+.navbar {
+    background-color: lightblue
+}
+
+h5 {
+    font-weight: bolder;
+    margin-bottom: -2.5rem;
+}
+
+footer {
+    color: lightblue
+}
+
+.lightline {
+    border-color: lightblue
+}
+.col.s6 {
+    padding-right: 20px;
+    padding-left: 20;
+}
+
+.textarea {
+    width: 100%;
+    height: 9.375rem;
+    padding: .75rem 1.25rem;
+    border: .125rem solid white;
+    box-sizing: border-box;
+    border-radius: 0.25rem;
+    resize: none;
+    background-color: lightblue;
+    color: white
+}
+
+input {
+    color: white
+}
+
+.date {
+    color: lightblue;
+    font-style: italic;
+    padding: 0;
+    margin: .8125rem 0;
+}
+
+.jobinfo {
+    text-indent: 3.125rem;
+    padding: 0;
+    margin: -0.875rem 0;
+}
+
+#other {
+    padding: 0;
+    margin: -1.25rem 0;
+}
+
+input [type=submit] {
+    width: 100%;
+    color: lightblue;
+    background-color: white;
+    padding: .875rem 1.25rem;
+    margin: .5rem 0;
+    border: none;
+    border-radius: .25rem;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+input [type=submit] {
+    color: lightblue;
+    background-color: white;
+}
+
+.contactbkgrd {
+    border-radius: .3125rem;
+    background-color: lightblue;
+    padding: 1.25rem;
+}
+
+.skills {
+    text-indent: 5.625rem;
+}
+
+a {
+    color: lightblue;
+}

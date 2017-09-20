@@ -93,3 +93,11 @@ input [type=submit] {
 a {
     color: lightblue;
 }
+
+#contact .container {
+    background-color: lightblue;
+}
+
+input[type="email"].big-dog::-webkit-input-placeholder {
+    color: black;
+  }
